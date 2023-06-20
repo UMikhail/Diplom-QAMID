@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="comment_test_input_edit_text" type="id" />
+    <item name="login_test_input_edit_text" type="id" />
+    <item name="pass_test_input_edit_text" type="id" />
+</resources>
